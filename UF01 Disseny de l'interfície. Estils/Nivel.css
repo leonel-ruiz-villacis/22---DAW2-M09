@@ -1,0 +1,26 @@
+*{
+    border: 1px solid black;
+
+}
+#container {
+    max-width: 1000px;
+    display: flex;
+    padding: 20px;
+}
+
+.Main{
+    width: 80%;
+    padding: 20px
+    border: 2px solid black;    
+}
+
+.image{
+    margin-bottom: 50px;
+    width: 100%;
+}
+h2{
+    margin: 20px;
+    font-weight: normal;
+    font-size: 32px;
+    color: cadetblue;
+}
